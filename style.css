@@ -7,6 +7,7 @@ list {
     list-style: none;
 }
 
-input {
-    style: unset;
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10rem;
 }
